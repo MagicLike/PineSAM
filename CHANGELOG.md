@@ -93,7 +93,7 @@ Update readme, install instructions, badges [9c8bce6](https://github.com/builder
 
 ## v1.8.3
 
-* fix: update permissions. agian! [6ee7bec](https://github.com/builder555/PineSAM/commit/6ee7beca3845c3cf1c61a64274f881bbaa9e4742)
+* fix: update permissions. again! [6ee7bec](https://github.com/builder555/PineSAM/commit/6ee7beca3845c3cf1c61a64274f881bbaa9e4742)
 
 ## v1.8.2
 
